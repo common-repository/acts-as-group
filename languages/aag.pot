@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acts as Group plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-31 00:45+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: acts-as-group\n"
+
+#: acts-as-group/admin/admin.php:34
+#: acts-as-group/includes/widget.php:68
+msgid "more"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:48
+msgid "Groups"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:51
+#: acts-as-group/admin/join-group.php:3
+msgid "Join Group"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:51
+#: acts-as-group/admin/admin.php:260
+msgid "Join"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:55
+#: acts-as-group/admin/messages.php:40
+#: acts-as-group/includes/widget.php:8
+#: acts-as-group/includes/widget.php:21
+msgid "Group Messages"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:55
+#: acts-as-group/admin/join-group.php:41
+msgid "Messages"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:59
+#: acts-as-group/admin/manage-group.php:28
+msgid "Manage Groups"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:59
+msgid "Manage"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:70
+#: acts-as-group/admin/admin.php:86
+#: acts-as-group/admin/admin.php:102
+#: acts-as-group/admin/admin.php:115
+#: acts-as-group/admin/admin.php:129
+#: acts-as-group/admin/admin.php:143
+#: acts-as-group/admin/admin.php:157
+#: acts-as-group/admin/admin.php:171
+#: acts-as-group/admin/admin.php:201
+#: acts-as-group/admin/admin.php:214
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:243
+msgid "Pending"
+msgstr ""
+
+#: acts-as-group/admin/admin.php:250
+msgid "Leave"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:6
+#: acts-as-group/admin/manage-group.php:159
+#: acts-as-group/admin/manage-group.php:245
+#: acts-as-group/admin/messages.php:121
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:28
+msgid "Search Groups:"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:31
+msgid "Search Groups"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:38
+msgid "Name"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:39
+#: acts-as-group/admin/manage-group.php:78
+msgid "Description"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:40
+#: acts-as-group/admin/manage-group.php:244
+msgid "Members"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:42
+msgid "Founded"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:43
+#: acts-as-group/admin/manage-group.php:82
+msgid "Status"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:44
+msgid "You Are"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:45
+msgid "Join / Leave"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:65
+msgid "Edit"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:72
+#: acts-as-group/admin/manage-group.php:180
+#: acts-as-group/admin/manage-group.php:268
+msgid "Y/m/d"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:87
+#: acts-as-group/admin/manage-group.php:220
+#: acts-as-group/admin/manage-group.php:324
+msgid "&laquo;"
+msgstr ""
+
+#: acts-as-group/admin/join-group.php:88
+#: acts-as-group/admin/manage-group.php:221
+#: acts-as-group/admin/manage-group.php:325
+msgid "&raquo;"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:31
+msgid "Group created."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:33
+msgid "Group updated."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:35
+msgid "Group deleted."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:50
+msgid "Add new group"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:74
+msgid "Group Name"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:85
+msgid "Open"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:87
+msgid "Anyone can join this group."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:91
+msgid "Closed"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:92
+msgid "Anyone can request membership for this group, but needs acceptance by admin member."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:98
+msgid "Create Group"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:100
+msgid "Update Group"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:107
+msgid "Delete Group"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:109
+msgid ""
+"You are about to delete this group.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:135
+msgid "Search Members:"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:139
+msgid "Search Members"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:155
+msgid "Pending Member"
+msgid_plural "Pending Members"
+msgstr[0] ""
+
+#: acts-as-group/admin/manage-group.php:158
+msgid "Pending Members"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:181
+#, php-format
+msgid "Pending since %s"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:193
+msgid "Accept"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:201
+msgid "Reject"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:241
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] ""
+
+#: acts-as-group/admin/manage-group.php:261
+msgid "(You)"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:269
+#, php-format
+msgid "Joined since %s"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:274
+msgid "Message"
+msgid_plural "Messages"
+msgstr[0] ""
+
+#: acts-as-group/admin/manage-group.php:288
+msgid "Promote to Admin"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:295
+msgid "Demote to Member"
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:305
+msgid ""
+"You are about to remove this member.\n"
+"'Cancel' to stop, 'OK' to remove."
+msgstr ""
+
+#: acts-as-group/admin/manage-group.php:305
+msgid "Remove"
+msgstr ""
+
+#: acts-as-group/admin/message.php:3
+msgid "Group Message"
+msgstr ""
+
+#: acts-as-group/admin/message.php:26
+#: acts-as-group/admin/timeline.php:41
+msgid "Reply"
+msgstr ""
+
+#: acts-as-group/admin/message.php:36
+#: acts-as-group/admin/timeline.php:53
+msgid ""
+"You are about to delete this message.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: acts-as-group/admin/message.php:36
+#: acts-as-group/admin/timeline.php:53
+msgid "Delete"
+msgstr ""
+
+#: acts-as-group/admin/message.php:52
+#: acts-as-group/admin/timeline.php:69
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: acts-as-group/admin/message.php:54
+#: acts-as-group/admin/timeline.php:71
+msgid "Y/m/d H:i"
+msgstr ""
+
+#: acts-as-group/admin/message.php:63
+#: acts-as-group/admin/timeline.php:80
+#, php-format
+msgid "in reply to %s"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:43
+msgid "Message deleted."
+msgstr ""
+
+#: acts-as-group/admin/messages.php:57
+msgid "Show all"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:85
+#, php-format
+msgid "In reply to %s's message"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:91
+msgid "Send Message"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:99
+msgid "Search Messages:"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:104
+msgid "Search Messages"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:109
+#, php-format
+msgid "No results for &#8220;%s&#8221;"
+msgstr ""
+
+#: acts-as-group/admin/messages.php:119
+msgid "Timeline"
+msgstr ""
+
+#: acts-as-group/includes/functions.php:13
+#: acts-as-group/includes/functions.php:55
+msgid "Untitled"
+msgstr ""
+
+#: acts-as-group/includes/install.php:97
+msgid "This is your first group created by Acts As Group plugin."
+msgstr ""
+
+#: acts-as-group/includes/widget.php:7
+msgid "The most recent messages flow on your groups"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:39
+msgid "You don't have a membership for this group."
+msgstr ""
+
+#: acts-as-group/includes/widget.php:43
+msgid "Join now"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:96
+msgid "Title:"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:99
+msgid "Group to show:"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:103
+msgid "--- Show All ---"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:114
+msgid "Number of messages to show:"
+msgstr ""
+
+#: acts-as-group/includes/widget.php:116
+msgid "(at most 15)"
+msgstr ""
+

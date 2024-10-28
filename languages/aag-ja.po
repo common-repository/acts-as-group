@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acts as Group plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-31 00:45+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Takayuki Miyoshi <takayukister@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: acts-as-group/admin/admin.php:34
+#: acts-as-group/includes/widget.php:68
+msgid "more"
+msgstr "さらに見る"
+
+#: acts-as-group/admin/admin.php:48
+msgid "Groups"
+msgstr "グループ"
+
+#: acts-as-group/admin/admin.php:51
+#: acts-as-group/admin/join-group.php:3
+msgid "Join Group"
+msgstr "グループに参加する"
+
+#: acts-as-group/admin/admin.php:51
+#: acts-as-group/admin/admin.php:260
+msgid "Join"
+msgstr "参加"
+
+#: acts-as-group/admin/admin.php:55
+#: acts-as-group/admin/messages.php:40
+#: acts-as-group/includes/widget.php:8
+#: acts-as-group/includes/widget.php:21
+msgid "Group Messages"
+msgstr "グループメッセージ"
+
+#: acts-as-group/admin/admin.php:55
+#: acts-as-group/admin/join-group.php:41
+msgid "Messages"
+msgstr "メッセージ"
+
+#: acts-as-group/admin/admin.php:59
+#: acts-as-group/admin/manage-group.php:28
+msgid "Manage Groups"
+msgstr "グループ管理"
+
+#: acts-as-group/admin/admin.php:59
+msgid "Manage"
+msgstr "管理"
+
+#: acts-as-group/admin/admin.php:70
+#: acts-as-group/admin/admin.php:86
+#: acts-as-group/admin/admin.php:102
+#: acts-as-group/admin/admin.php:115
+#: acts-as-group/admin/admin.php:129
+#: acts-as-group/admin/admin.php:143
+#: acts-as-group/admin/admin.php:157
+#: acts-as-group/admin/admin.php:171
+#: acts-as-group/admin/admin.php:201
+#: acts-as-group/admin/admin.php:214
+msgid "Cheatin&#8217; uh?"
+msgstr "おイタしちゃだめ。"
+
+#: acts-as-group/admin/admin.php:243
+msgid "Pending"
+msgstr "承認待ち"
+
+#: acts-as-group/admin/admin.php:250
+msgid "Leave"
+msgstr "脱退"
+
+#: acts-as-group/admin/join-group.php:6
+#: acts-as-group/admin/manage-group.php:159
+#: acts-as-group/admin/manage-group.php:245
+#: acts-as-group/admin/messages.php:121
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;の検索結果"
+
+#: acts-as-group/admin/join-group.php:28
+msgid "Search Groups:"
+msgstr "グループを検索:"
+
+#: acts-as-group/admin/join-group.php:31
+msgid "Search Groups"
+msgstr "グループを検索"
+
+#: acts-as-group/admin/join-group.php:38
+msgid "Name"
+msgstr "名前"
+
+#: acts-as-group/admin/join-group.php:39
+#: acts-as-group/admin/manage-group.php:78
+msgid "Description"
+msgstr "説明"
+
+#: acts-as-group/admin/join-group.php:40
+#: acts-as-group/admin/manage-group.php:244
+msgid "Members"
+msgstr "メンバー"
+
+#: acts-as-group/admin/join-group.php:42
+msgid "Founded"
+msgstr "開設"
+
+#: acts-as-group/admin/join-group.php:43
+#: acts-as-group/admin/manage-group.php:82
+msgid "Status"
+msgstr "ステータス"
+
+#: acts-as-group/admin/join-group.php:44
+msgid "You Are"
+msgstr "あなたは"
+
+#: acts-as-group/admin/join-group.php:45
+msgid "Join / Leave"
+msgstr "参加 / 脱退"
+
+#: acts-as-group/admin/join-group.php:65
+msgid "Edit"
+msgstr "編集"
+
+#: acts-as-group/admin/join-group.php:72
+#: acts-as-group/admin/manage-group.php:180
+#: acts-as-group/admin/manage-group.php:268
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: acts-as-group/admin/join-group.php:87
+#: acts-as-group/admin/manage-group.php:220
+#: acts-as-group/admin/manage-group.php:324
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: acts-as-group/admin/join-group.php:88
+#: acts-as-group/admin/manage-group.php:221
+#: acts-as-group/admin/manage-group.php:325
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: acts-as-group/admin/manage-group.php:31
+msgid "Group created."
+msgstr "グループを作成しました。"
+
+#: acts-as-group/admin/manage-group.php:33
+msgid "Group updated."
+msgstr "グループを更新しました。"
+
+#: acts-as-group/admin/manage-group.php:35
+msgid "Group deleted."
+msgstr "グループを削除しました。"
+
+#: acts-as-group/admin/manage-group.php:50
+msgid "Add new group"
+msgstr "新規グループ追加"
+
+#: acts-as-group/admin/manage-group.php:74
+msgid "Group Name"
+msgstr "グループ名"
+
+#: acts-as-group/admin/manage-group.php:85
+msgid "Open"
+msgstr "オープン"
+
+#: acts-as-group/admin/manage-group.php:87
+msgid "Anyone can join this group."
+msgstr "誰でもこのグループに参加できます。"
+
+#: acts-as-group/admin/manage-group.php:91
+msgid "Closed"
+msgstr "クローズド"
+
+#: acts-as-group/admin/manage-group.php:92
+msgid "Anyone can request membership for this group, but needs acceptance by admin member."
+msgstr "誰でもこのグループに参加申請できますが、参加には管理者の承認が必要です。"
+
+#: acts-as-group/admin/manage-group.php:98
+msgid "Create Group"
+msgstr "グループ作成"
+
+#: acts-as-group/admin/manage-group.php:100
+msgid "Update Group"
+msgstr "グループ更新"
+
+#: acts-as-group/admin/manage-group.php:107
+msgid "Delete Group"
+msgstr "グループ削除"
+
+#: acts-as-group/admin/manage-group.php:109
+msgid ""
+"You are about to delete this group.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"あなたはこのグループを削除しようとしています。\n"
+"'Cancel' で取り消し、'OK' で実際に削除します。"
+
+#: acts-as-group/admin/manage-group.php:135
+msgid "Search Members:"
+msgstr "メンバーを検索:"
+
+#: acts-as-group/admin/manage-group.php:139
+msgid "Search Members"
+msgstr "メンバーを検索"
+
+#: acts-as-group/admin/manage-group.php:155
+msgid "Pending Member"
+msgid_plural "Pending Members"
+msgstr[0] "承認待ちメンバー"
+
+#: acts-as-group/admin/manage-group.php:158
+msgid "Pending Members"
+msgstr "承認待ちメンバー"
+
+#: acts-as-group/admin/manage-group.php:181
+#, php-format
+msgid "Pending since %s"
+msgstr "%s から承認待ち"
+
+#: acts-as-group/admin/manage-group.php:193
+msgid "Accept"
+msgstr "承認"
+
+#: acts-as-group/admin/manage-group.php:201
+msgid "Reject"
+msgstr "却下"
+
+#: acts-as-group/admin/manage-group.php:241
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] "メンバー"
+
+#: acts-as-group/admin/manage-group.php:261
+msgid "(You)"
+msgstr "(あなたです)"
+
+#: acts-as-group/admin/manage-group.php:269
+#, php-format
+msgid "Joined since %s"
+msgstr "%s から参加"
+
+#: acts-as-group/admin/manage-group.php:274
+msgid "Message"
+msgid_plural "Messages"
+msgstr[0] "メッセージ"
+
+#: acts-as-group/admin/manage-group.php:288
+msgid "Promote to Admin"
+msgstr "管理者に昇格"
+
+#: acts-as-group/admin/manage-group.php:295
+msgid "Demote to Member"
+msgstr "メンバーに降格"
+
+#: acts-as-group/admin/manage-group.php:305
+msgid ""
+"You are about to remove this member.\n"
+"'Cancel' to stop, 'OK' to remove."
+msgstr ""
+"あなたはこのメンバーを除名しようとしています。\n"
+"'Cancel' で取り消し、'OK' で実際に除名します。"
+
+#: acts-as-group/admin/manage-group.php:305
+msgid "Remove"
+msgstr "除名"
+
+#: acts-as-group/admin/message.php:3
+msgid "Group Message"
+msgstr "グループメッセージ"
+
+#: acts-as-group/admin/message.php:26
+#: acts-as-group/admin/timeline.php:41
+msgid "Reply"
+msgstr "返信"
+
+#: acts-as-group/admin/message.php:36
+#: acts-as-group/admin/timeline.php:53
+msgid ""
+"You are about to delete this message.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"あなたはこのメッセージを削除しようとしています。\n"
+"'Cancel' で取り消し、'OK' で実際に削除します。"
+
+#: acts-as-group/admin/message.php:36
+#: acts-as-group/admin/timeline.php:53
+msgid "Delete"
+msgstr "削除"
+
+#: acts-as-group/admin/message.php:52
+#: acts-as-group/admin/timeline.php:69
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: acts-as-group/admin/message.php:54
+#: acts-as-group/admin/timeline.php:71
+msgid "Y/m/d H:i"
+msgstr "Y/m/d H:i"
+
+#: acts-as-group/admin/message.php:63
+#: acts-as-group/admin/timeline.php:80
+#, php-format
+msgid "in reply to %s"
+msgstr "%s への返信"
+
+#: acts-as-group/admin/messages.php:43
+msgid "Message deleted."
+msgstr "メッセージを削除しました。"
+
+#: acts-as-group/admin/messages.php:57
+msgid "Show all"
+msgstr "すべて表示"
+
+#: acts-as-group/admin/messages.php:85
+#, php-format
+msgid "In reply to %s's message"
+msgstr "%s のメッセージへの返信"
+
+#: acts-as-group/admin/messages.php:91
+msgid "Send Message"
+msgstr "メッセージ送信"
+
+#: acts-as-group/admin/messages.php:99
+msgid "Search Messages:"
+msgstr "メッセージを検索:"
+
+#: acts-as-group/admin/messages.php:104
+msgid "Search Messages"
+msgstr "メッセージを検索"
+
+#: acts-as-group/admin/messages.php:109
+#, php-format
+msgid "No results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;の検索結果なし"
+
+#: acts-as-group/admin/messages.php:119
+msgid "Timeline"
+msgstr "タイムライン"
+
+#: acts-as-group/includes/functions.php:13
+#: acts-as-group/includes/functions.php:55
+msgid "Untitled"
+msgstr "無題"
+
+#: acts-as-group/includes/install.php:97
+msgid "This is your first group created by Acts As Group plugin."
+msgstr "これは Acts As Group プラグインが作成した最初のグループです。"
+
+#: acts-as-group/includes/widget.php:7
+msgid "The most recent messages flow on your groups"
+msgstr "グループの最新のメッセージ"
+
+#: acts-as-group/includes/widget.php:39
+msgid "You don't have a membership for this group."
+msgstr "このグループのメンバーシップがありません。"
+
+#: acts-as-group/includes/widget.php:43
+msgid "Join now"
+msgstr "参加する"
+
+#: acts-as-group/includes/widget.php:96
+msgid "Title:"
+msgstr "タイトル:"
+
+#: acts-as-group/includes/widget.php:99
+msgid "Group to show:"
+msgstr "表示するグループ:"
+
+#: acts-as-group/includes/widget.php:103
+msgid "--- Show All ---"
+msgstr "--- すべて表示 ---"
+
+#: acts-as-group/includes/widget.php:114
+msgid "Number of messages to show:"
+msgstr "表示するメッセージ数:"
+
+#: acts-as-group/includes/widget.php:116
+msgid "(at most 15)"
+msgstr "(最大 15)"
+
+#~ msgid "Demote"
+#~ msgstr "降格"
+

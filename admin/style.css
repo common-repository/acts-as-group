@@ -1,0 +1,44 @@
+#poststuff #groupsubmitdiv .inside {
+	margin: 0;
+	padding: 0;
+}
+
+.status-radio input {
+	margin: 2px 3px 5px 0;
+	vertical-align: middle;
+}
+
+.status-radio label {
+	padding: 5px 0;
+}
+
+.status-radio label.open {
+	color: green;
+}
+
+.status-radio label.closed {
+	color: orange;
+}
+
+#group_description {
+	height: 4em;
+	margin: 0;
+	width: 98%;
+}
+
+/* Dashboard */
+
+.aag-messages {
+	overflow: auto;
+	max-height: 320px;
+}
+
+.aag-messages .message {
+	padding: 2px 12px;
+}
+
+.aag-messages .meta {
+	font-weight: bold;
+	font-size: 90%;
+	text-align: right;
+}
